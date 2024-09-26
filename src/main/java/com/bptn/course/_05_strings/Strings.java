@@ -1,5 +1,6 @@
 package com.bptn.course._05_strings;
 
+//new comment
 public class Strings {
 
 	public static void main(String[] args) {
@@ -15,7 +16,7 @@ public class Strings {
 		System.out.println(names[names.length-1]);
 		
 		for (int i = 0; i < names.length; i++) {
-            System.out.println(names[i]);
+            		System.out.println(names[i]);
         }
 	}
 }
