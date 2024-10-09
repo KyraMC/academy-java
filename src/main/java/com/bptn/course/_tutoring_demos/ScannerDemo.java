@@ -31,7 +31,8 @@ public class ScannerDemo {
 		
 		System.out.println("This is your input: " + name + age + trueOrFalse + price + lastName);
 		
-		
+		// Last step - Always close your scanner
+		scanner.close();		
 		 
 
 	}
