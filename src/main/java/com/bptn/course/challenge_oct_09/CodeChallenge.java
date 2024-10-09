@@ -2,7 +2,7 @@ package com.bptn.course.challenge_oct_09;
 
 import java.util.Arrays;
 
-public class CodeChallenge {
+public class CodeChallenge { // test
 
 	public static void main(String[] args) {
 		int[] nums = { 2, 7, 11, 15 };
