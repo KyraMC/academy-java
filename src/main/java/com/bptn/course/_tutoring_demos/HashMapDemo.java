@@ -34,24 +34,3 @@ public class HashMapDemo {
 	}
 
 }
-/*
-{key, value}
-{1, "+$50"}
-
-[0, 1, 2]
-["+$10" , "-$5", "-$2"]
-
-System.out.println("How much would you like to deposit?");
-int depositAmount = scanner.nextInt();
-atm.deposit(depositAmount);
-
-Class Atm
-int transactionCount = 10;
-deposit(int depositAmount){
-	account.setBalance(account.getBalance() + depositAmount); // == balance = balance + depositAmount
-	transactionMap.put{transactionCount, "+$" + depositAmount} == {10, "+$50}
-}
-
-Class Main{
-System.out.println("Transaction 1:" + transactionArrayList.get(1-1)); == Transaction 10: +$50
-*/
